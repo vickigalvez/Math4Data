@@ -2,13 +2,13 @@
 **1)** Responde para cada número con N, E, Re, Ra o I según sea Naturales, Enteros, Reales,
 Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -> R: N.
 
-    a- 198
-    b- 4
-    c- -3.1
-    d- -1/4
-    e- 10.0
-    f- 2*e
-    g- -123.0004
+    a- 198   R: N
+    b- 4     R: N
+    c- -3.1  R: Ra
+    d- -1/4  R: Ra
+    e- 10.0  R: N
+    f- 2*e   R: I
+    g- -123.0004 R: Ra
 
 
 **2)** Calcula los siguientes porcentajes y y redondea la respuesta a su PRIMER número decimal
